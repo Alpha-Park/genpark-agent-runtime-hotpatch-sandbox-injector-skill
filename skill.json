@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+  "version": "1.0.0",
+  "description": "In-memory runtime hotpatching and method swapper with rollback checkpoints.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "hotpatching",
+    "runtime-injection",
+    "method-swapper",
+    "self-adaptation",
+    "agentic-ai"
+  ]
+}
